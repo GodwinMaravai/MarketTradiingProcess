@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: market-trade-processing
+Implementation-Version: 0.1.0
+Built-By: Godwin
+Implementation-Vendor-Id: com.mtp
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/market-trade-processing
+Created-By: Maven Integration for Eclipse
+
